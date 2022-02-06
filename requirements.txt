@@ -4,3 +4,4 @@ seaborn
 urlextract
 wordcloud
 pandas
+nltk~=3.6.7
